@@ -2,6 +2,7 @@
 ##Objetivo
 El siguiente proyecto tiene los elementos necesarios para poder evaluar
 si el alumno tiene las siguiente competencias:
+
 1. Crear un Fork del Repositorio
 2. Clonar el Fork del Repositorio en su máquina de trabajo
 3. Establecer adecuadamente el ambiente de desarrollo para un stack de MongoDB, Node.js y Express
