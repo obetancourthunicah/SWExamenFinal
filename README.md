@@ -23,7 +23,7 @@ paquete de R ("datasets").
 
 
 ##Instrucciones
-1. Cree un Fork del Proyecto ()
+1. Cree un Fork del Proyecto (https://github.com/obetancourthunicah/SWExamenFinal.git)
 2. Clone el proyecto en su máquina de trabajo
 3. Instale las dependencias del proyecto
 4. Siga las instrucciones otorgadas en la plataforma Moodle y responda únicamente lo que se le solicita.
