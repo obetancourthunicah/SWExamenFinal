@@ -7,13 +7,13 @@ si el alumno tiene las siguiente competencias:
 3. Establecer adecuadamente el ambiente de desarrollo para un stack de MongoDB, Node.js y Express
 4. Configurar e instalar las dependencias de un proyecto en node.js con el utilitario npm
 5. Ejecutar la aplicación con node.js
-5. Analizar, Crear y Modificar Scripts de node.js en javascript.
+6. Analizar, Crear y Modificar Scripts de node.js en javascript.
   - Crear Rutas
   - Acceder a la Base de Datos MongoDB
   - Manipular (Crear, Modificar y Obtener) Datos de MongoDB
   - Presentar datos al Cliente
-6. Crear un commit con los cambios realizados al proyecto
-7. Empujar los cambios al Fork del Repositorio.
+7. Crear un commit con los cambios realizados al proyecto
+8. Empujar los cambios al Fork del Repositorio.
 
 La información que se utiliza es una coleccion de observaciones realizadas para estudiar
 la prolongación de horas sueño con el uso de dos medicamentos soporifícos
@@ -22,12 +22,12 @@ paquete de R ("datasets").
 
 
 ##Instrucciones
-1) Cree un Fork del Proyecto ()
-2) Clone el proyecto en su máquina de trabajo
-3) Instale las dependencias del proyecto
-4) Siga las instrucciones otorgadas en la plataforma Moodle y responda únicamente lo que se le solicita.
-5) Realice un commit con las modificaciones y cambios solicitados.
-6) Empuje todos los cambios a su fork del repositorio.
+1. Cree un Fork del Proyecto ()
+2. Clone el proyecto en su máquina de trabajo
+3. Instale las dependencias del proyecto
+4. Siga las instrucciones otorgadas en la plataforma Moodle y responda únicamente lo que se le solicita.
+5. Realice un commit con las modificaciones y cambios solicitados.
+6. Empuje todos los cambios a su fork del repositorio.
 
 ##Bibliografía
 * sleep
