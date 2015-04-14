@@ -18,7 +18,7 @@ si el alumno tiene las siguiente competencias:
 
 La información que se utiliza es una coleccion de observaciones realizadas para estudiar
 la prolongación de horas sueño con el uso de dos medicamentos soporifícos
-(** que incita o causa el sueño **) con respecto a un grupo de control obtenidas de un
+(**que incita o causa el sueño**) con respecto a un grupo de control obtenidas de un
 paquete de R ("datasets").
 
 
