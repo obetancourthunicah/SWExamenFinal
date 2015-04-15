@@ -2,7 +2,7 @@
 var MongoClient = require('mongodb').MongoClient;
 var debug = require('debug')('examenApp:server');
 var http = require('http');
-var url = "0801-1990-11480";
+var url = "mongodb://localhost:27017/swtest";
 
 
 MongoClient.connect(url, function(err, db){
